@@ -16,8 +16,8 @@ export const App = () => {
     case 3:
       user_jan = "ぱー";
       break;
-    // default:
-    //   console.log("１から3の値を入力してください");
+    default:
+    // console.log("１から3の値を入力してください");
   }
 
   return (
