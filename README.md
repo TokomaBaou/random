@@ -1,2 +1,2 @@
-# random
+# amplify-test
 Created with CodeSandbox
